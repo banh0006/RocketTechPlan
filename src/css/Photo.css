@@ -1,0 +1,13 @@
+.position-relative {
+    position: relative;
+}
+
+.photo-title {
+    position: absolute;
+    text-align: center;
+    top: 1rem;
+    margin: 0 0.2rem;
+    color: white;
+    overflow-wrap: normal;
+}
+
